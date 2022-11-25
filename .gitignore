@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+
+## ADDED 
+.DS_Store
+.vscode/
+.vscode
+*encoded
+*.out 
+*.gcda 
+*.o 
+*.gch
+*.out 
